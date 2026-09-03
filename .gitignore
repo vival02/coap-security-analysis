@@ -1,0 +1,27 @@
+# Dataset con IP reali
+*.csv
+
+# Grafici generati
+*.png
+
+# Credenziali
+.env
+
+# Log e documenti di lavoro
+*.docx
+
+# File temporanei Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Ambienti virtuali
+venv/
+env/
+.venv/
+
+# Editor
+.vscode/
+.idea/
+*.swp
