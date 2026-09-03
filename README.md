@@ -99,10 +99,4 @@ non sono inclusi nel repository.
 
 Le scansioni si sono limitate a richieste GET non autenticate verso
 endpoint pubblicamente esposti su Internet, senza alcuna modifica
-dello stato dei dispositivi target. La PoC descritta nel report
-(`ispezione_falle_critiche.py`) è stata eseguita su un sottoinsieme
-ristretto di target con l'unico scopo di verificare la riproducibilità
-della vulnerabilità, ed è stata interrotta prima di verificarne le
-conseguenze operative complete. I risultati sono stati oggetto di
-responsible disclosure verso CERT/CC e China Mobile Communications
-Corporation.
+dello stato dei dispositivi target. 
