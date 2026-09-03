@@ -4,7 +4,7 @@ Active scanning pipeline for assessing the security posture of IoT devices
 exposing CoAP (RFC 7252) on the public Internet.
 
 **Network Security – Università degli Studi di Verona, A.A. 2025/2026**  
-Camilla Vivaldi – VR518695
+Camilla Vivaldi
 
 ---
 
