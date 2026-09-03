@@ -10,7 +10,7 @@ Calcola e stampa:
   - Densità della superficie d'attacco per host vulnerabile
 
 Input  : risultati_massivi_shodan.csv
-Autore : Camilla Vivaldi (VR518695)
+Autore : Camilla Vivaldi
 Corso  : Network Security – Università degli Studi di Verona
 Data   : 10 Maggio 2026
 """
